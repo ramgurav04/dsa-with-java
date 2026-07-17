@@ -19,6 +19,12 @@ public class Shiftbyone {
     public static void main(String[] args) {
         int[] arr = { 1, 5, 6, 4, 8 };
 
+        System.out.println("Before : ");
+        
+        for (int m : arr) {
+            System.out.print(m + " ");
+        }
+
         shift(arr);
 
         System.out.println("After shifting by one:");
