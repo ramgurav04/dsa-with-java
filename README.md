@@ -8,6 +8,7 @@ Learning Data Structures and Algorithms from basics to advanced with Java. Inclu
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/ramgurav04/dsa-with-java/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/ramgurav04/dsa-with-java/tree/main/0075-sort-colors/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ramgurav04/dsa-with-java/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Two Pointers
@@ -21,6 +22,7 @@ Learning Data Structures and Algorithms from basics to advanced with Java. Inclu
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/ramgurav04/dsa-with-java/tree/main/0066-plus-one/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ramgurav04/dsa-with-java/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
