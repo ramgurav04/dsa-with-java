@@ -10,6 +10,7 @@ Learning Data Structures and Algorithms from basics to advanced with Java. Inclu
 | ------- | ------- |
 | [0066-plus-one](https://github.com/ramgurav04/dsa-with-java/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/ramgurav04/dsa-with-java/tree/main/0075-sort-colors/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/ramgurav04/dsa-with-java/tree/main/0238-product-of-array-except-self/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ramgurav04/dsa-with-java/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -28,4 +29,8 @@ Learning Data Structures and Algorithms from basics to advanced with Java. Inclu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ramgurav04/dsa-with-java/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/ramgurav04/dsa-with-java/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
