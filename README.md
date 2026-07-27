@@ -11,6 +11,7 @@ Learning Data Structures and Algorithms from basics to advanced with Java. Inclu
 | [0066-plus-one](https://github.com/ramgurav04/dsa-with-java/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/ramgurav04/dsa-with-java/tree/main/0075-sort-colors/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ramgurav04/dsa-with-java/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/ramgurav04/dsa-with-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ramgurav04/dsa-with-java/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -20,10 +21,12 @@ Learning Data Structures and Algorithms from basics to advanced with Java. Inclu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/ramgurav04/dsa-with-java/tree/main/0075-sort-colors/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/ramgurav04/dsa-with-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/ramgurav04/dsa-with-java/tree/main/0066-plus-one/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/ramgurav04/dsa-with-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ramgurav04/dsa-with-java/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
