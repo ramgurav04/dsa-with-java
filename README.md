@@ -31,6 +31,7 @@ Learning Data Structures and Algorithms from basics to advanced with Java. Inclu
 | [0066-plus-one](https://github.com/ramgurav04/dsa-with-java/tree/main/0066-plus-one/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ramgurav04/dsa-with-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ramgurav04/dsa-with-java/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ramgurav04/dsa-with-java/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@ Learning Data Structures and Algorithms from basics to advanced with Java. Inclu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/ramgurav04/dsa-with-java/tree/main/0179-largest-number/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ramgurav04/dsa-with-java/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,4 +53,13 @@ Learning Data Structures and Algorithms from basics to advanced with Java. Inclu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/ramgurav04/dsa-with-java/tree/main/0041-first-missing-positive/) | Hard |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ramgurav04/dsa-with-java/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ramgurav04/dsa-with-java/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ramgurav04/dsa-with-java/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 <!---LeetCode Topics End-->
