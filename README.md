@@ -8,6 +8,7 @@ Learning Data Structures and Algorithms from basics to advanced with Java. Inclu
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/ramgurav04/dsa-with-java/tree/main/0041-first-missing-positive/) | Hard |
 | [0066-plus-one](https://github.com/ramgurav04/dsa-with-java/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/ramgurav04/dsa-with-java/tree/main/0075-sort-colors/) | Medium |
 | [0179-largest-number](https://github.com/ramgurav04/dsa-with-java/tree/main/0179-largest-number/) | Medium |
@@ -46,4 +47,8 @@ Learning Data Structures and Algorithms from basics to advanced with Java. Inclu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/ramgurav04/dsa-with-java/tree/main/0179-largest-number/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0041-first-missing-positive](https://github.com/ramgurav04/dsa-with-java/tree/main/0041-first-missing-positive/) | Hard |
 <!---LeetCode Topics End-->
