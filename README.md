@@ -8,6 +8,7 @@ Learning Data Structures and Algorithms from basics to advanced with Java. Inclu
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/ramgurav04/dsa-with-java/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/ramgurav04/dsa-with-java/tree/main/0041-first-missing-positive/) | Hard |
 | [0066-plus-one](https://github.com/ramgurav04/dsa-with-java/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/ramgurav04/dsa-with-java/tree/main/0075-sort-colors/) | Medium |
@@ -62,4 +63,8 @@ Learning Data Structures and Algorithms from basics to advanced with Java. Inclu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ramgurav04/dsa-with-java/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/ramgurav04/dsa-with-java/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
