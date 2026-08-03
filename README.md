@@ -13,6 +13,7 @@ Learning Data Structures and Algorithms from basics to advanced with Java. Inclu
 | [0041-first-missing-positive](https://github.com/ramgurav04/dsa-with-java/tree/main/0041-first-missing-positive/) | Hard |
 | [0066-plus-one](https://github.com/ramgurav04/dsa-with-java/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/ramgurav04/dsa-with-java/tree/main/0075-sort-colors/) | Medium |
+| [0135-candy](https://github.com/ramgurav04/dsa-with-java/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/ramgurav04/dsa-with-java/tree/main/0179-largest-number/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ramgurav04/dsa-with-java/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ramgurav04/dsa-with-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -52,6 +53,7 @@ Learning Data Structures and Algorithms from basics to advanced with Java. Inclu
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0135-candy](https://github.com/ramgurav04/dsa-with-java/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/ramgurav04/dsa-with-java/tree/main/0179-largest-number/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
