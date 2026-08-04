@@ -9,6 +9,7 @@ Learning Data Structures and Algorithms from basics to advanced with Java. Inclu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/ramgurav04/dsa-with-java/tree/main/0015-3sum/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/ramgurav04/dsa-with-java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/ramgurav04/dsa-with-java/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/ramgurav04/dsa-with-java/tree/main/0041-first-missing-positive/) | Hard |
 | [0066-plus-one](https://github.com/ramgurav04/dsa-with-java/tree/main/0066-plus-one/) | Easy |
@@ -71,5 +72,6 @@ Learning Data Structures and Algorithms from basics to advanced with Java. Inclu
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ramgurav04/dsa-with-java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/ramgurav04/dsa-with-java/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
