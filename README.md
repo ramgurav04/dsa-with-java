@@ -36,12 +36,14 @@ Learning Data Structures and Algorithms from basics to advanced with Java. Inclu
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ramgurav04/dsa-with-java/tree/main/0002-add-two-numbers/) | Medium |
 | [0066-plus-one](https://github.com/ramgurav04/dsa-with-java/tree/main/0066-plus-one/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/ramgurav04/dsa-with-java/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ramgurav04/dsa-with-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ramgurav04/dsa-with-java/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ramgurav04/dsa-with-java/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/ramgurav04/dsa-with-java/tree/main/0371-sum-of-two-integers/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ramgurav04/dsa-with-java/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
