@@ -17,6 +17,7 @@ Learning Data Structures and Algorithms from basics to advanced with Java. Inclu
 | [0135-candy](https://github.com/ramgurav04/dsa-with-java/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/ramgurav04/dsa-with-java/tree/main/0179-largest-number/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ramgurav04/dsa-with-java/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/ramgurav04/dsa-with-java/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/ramgurav04/dsa-with-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/ramgurav04/dsa-with-java/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/ramgurav04/dsa-with-java/tree/main/0704-binary-search/) | Easy |
@@ -99,5 +100,22 @@ Learning Data Structures and Algorithms from basics to advanced with Java. Inclu
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/ramgurav04/dsa-with-java/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/ramgurav04/dsa-with-java/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/ramgurav04/dsa-with-java/tree/main/0239-sliding-window-maximum/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/ramgurav04/dsa-with-java/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/ramgurav04/dsa-with-java/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/ramgurav04/dsa-with-java/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
